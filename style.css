@@ -102,6 +102,10 @@ img {
     font-size: 3em;
     margin-bottom: 80px;
   }
+
+  img {
+    height: 250px;
+  }
 }
 
 /* Mobile (vertical size) */
@@ -128,5 +132,9 @@ img {
   h1{
     font-size: 4em;
     margin-bottom: 100px
+  }
+
+  img {
+    height: 300px;
   }
 }
